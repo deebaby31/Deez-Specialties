@@ -1,0 +1,143 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+  .:
+    dependencies:
+      '@shopify/hydrogen':
+        specifier: 2026.4.5
+        version: 2026.4.5(graphql@16.10.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(react-router@7.16.0)(react-router-dom@7.16.0)
+      graphql:
+        specifier: ^16.10.0
+        version: 16.10.0
+      graphql-tag:
+        specifier: ^2.12.6
+        version: 2.12.6(graphql@16.10.0)
+      isbot:
+        specifier: ^5.1.22
+        version: 5.1.22
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+      react-router:
+        specifier: 7.16.0
+        version: 7.16.0
+      react-router-dom:
+        specifier: 7.16.0
+        version: 7.16.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(react-router@7.16.0)
+      tailwindcss:
+        specifier: ^4.1.6
+        version: 4.1.6
+    devDependencies:
+      '@eslint/compat':
+        specifier: ^1.2.5
+        version: 1.2.5
+      '@eslint/eslintrc':
+        specifier: ^3.2.0
+        version: 3.2.0
+      '@eslint/js':
+        specifier: ^9.18.0
+        version: 9.18.0
+      '@graphql-codegen/cli':
+        specifier: 5.0.2
+        version: 5.0.2(@types/node@22.19.17)(typescript@5.9.2)
+      '@react-router/dev':
+        specifier: 7.16.0
+        version: 7.16.0(typescript@5.9.2)(vite@8.0.1(@types/node@22.19.17)(jiti@2.6.1))
+      '@react-router/fs-routes':
+        specifier: 7.16.0
+        version: 7.16.0
+      '@shopify/cli':
+        specifier: 3.93.2
+        version: 3.93.2
+      '@shopify/hydrogen-codegen':
+        specifier: 0.3.3
+        version: 0.3.3(typescript@5.9.2)
+      '@shopify/mini-oxygen':
+        specifier: 4.2.2
+        version: 4.2.2
+      '@shopify/oxygen-workers-types':
+        specifier: ^4.1.6
+        version: 4.1.6
+      '@shopify/prettier-config':
+        specifier: ^1.1.2
+        version: 1.1.2
+      '@tailwindcss/vite':
+        specifier: ^4.1.6
+        version: 4.1.6(tailwindcss@4.1.6)(vite@8.0.1(@types/node@22.19.17)(jiti@2.6.1))
+      '@total-typescript/ts-reset':
+        specifier: ^0.6.1
+        version: 0.6.1
+      '@types/eslint':
+        specifier: ^9.6.1
+        version: 9.6.1
+      '@types/node':
+        specifier: ^22.0.0
+        version: 22.19.17
+      '@types/react':
+        specifier: ^18.3.28
+        version: 18.3.28
+      '@types/react-dom':
+        specifier: ^18.3.7
+        version: 18.3.7(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@typescript-eslint/eslint-plugin':
+        specifier: ^8.21.0
+        version: 8.21.0(@typescript-eslint/parser@8.21.0(typescript@5.9.2))(eslint@9.18.0)(typescript@5.9.2)
+      '@typescript-eslint/parser':
+        specifier: ^8.21.0
+        version: 8.21.0(eslint@9.18.0)(typescript@5.9.2)
+      eslint:
+        specifier: ^9.18.0
+        version: 9.18.0
+      eslint-config-prettier:
+        specifier: ^10.0.1
+        version: 10.0.1(eslint@9.18.0)
+      eslint-import-resolver-typescript:
+        specifier: ^3.7.0
+        version: 3.7.0(eslint@9.18.0)(eslint-import-resolver-typescript@3.7.0)
+      eslint-plugin-eslint-comments:
+        specifier: ^3.2.0
+        version: 3.2.0(eslint@9.18.0)
+      eslint-plugin-import:
+        specifier: ^2.31.0
+        version: 2.31.0(@typescript-eslint/parser@8.21.0(typescript@5.9.2))(eslint@9.18.0)
+      eslint-plugin-jest:
+        specifier: ^28.11.0
+        version: 28.11.0(@typescript-eslint/eslint-plugin@8.21.0(@typescript-eslint/parser@8.21.0(typescript@5.9.2))(eslint@9.18.0)(typescript@5.9.2))(eslint@9.18.0)(jest@29.7.0)
+      eslint-plugin-jsx-a11y:
+        specifier: ^6.10.2
+        version: 6.10.2(eslint@9.18.0)
+      eslint-plugin-react:
+        specifier: ^7.37.4
+        version: 7.37.4(eslint@9.18.0)
+      eslint-plugin-react-hooks:
+        specifier: ^5.1.0
+        version: 5.1.0(eslint@9.18.0)
+      globals:
+        specifier: ^15.14.0
+        version: 15.14.0
+      graphql-config:
+        specifier: ^5.0.3
+        version: 5.0.3(graphql@16.10.0)
+      prettier:
+        specifier: ^3.4.2
+        version: 3.4.2
+      typescript:
+        specifier: ^5.9.2
+        version: 5.9.2
+      vite:
+        specifier: ^8.0.1
+        version: 8.0.1(@types/node@22.19.17)(jiti@2.6.1)
+
+packages:
+  '@ampproject/remapping@2.2.1':
+    resolution: {integrity: sha512-lFMjJTrFL3j7L9yBxwYfCq2K/+7mAVleS7jna5NlCKt5z5rDMDTuHFIHbarUmlCdARc7ZcOUs4eNB9SNKAvGIA==}
+    engines: {node: '>=6.0.0'}
+
+snapshots: {}
